@@ -6,7 +6,7 @@
 using namespace std;
 
 int N, K;
-int answer = 0;
+int answer = 0; 
 vector <string> v;
 vector <int> num;
 
